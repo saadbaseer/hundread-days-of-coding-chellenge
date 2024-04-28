@@ -1,13 +1,9 @@
-// Question 3: Name Cases: 
-// Store a person’s name ina variable, and then print that
-//  person’s name in lowercase, uppercase, and titlecase.
+// Question 2: Personal Message: 
+// Store a person’s name in a variable and print a message to them,
+//  like “Hello Asharib, would you like to learn some TypeScript today?”    
 
-let personName :string="saad baseer khan";
+let person:string = "Saad";
 
-console.log(personName.toLowerCase()); // this converts into lower case
+console.log(`hello ${person} would you like to learn some typescript today?`);
 
-console.log(personName.toUpperCase()); // this converts to upper case 
-
-console.log(personName.charAt(0).toUpperCase() + personName.slice(1).toLowerCase());//this converts to titlecase
- 
-
+                                                      
