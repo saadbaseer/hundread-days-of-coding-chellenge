@@ -10,4 +10,3 @@ console.log(personName.toUpperCase()); // this converts to upper case
 
 console.log(personName.charAt(0).toUpperCase() + personName.slice(1).toLowerCase());//this converts to titlecase
  
-

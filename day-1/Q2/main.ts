@@ -6,4 +6,4 @@ let person:string = "Saad";
 
 console.log(`hello ${person} would you like to learn some typescript today?`);
 
-                                                      
+                    

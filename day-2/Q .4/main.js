@@ -3,4 +3,4 @@
 //  Print the quote and the name of its author. Your output should look 
 //  something like the following, including the quotation marks:
 // "Albert Einstein once said, “A person who never made a mistake never tried anything new.”"
-console.log("Imran khan once said,\"if you walk up and you have no chellange \nin your life thats the end of your life\"");
+console.log("Imran khan once said,\"if you walk up and you have no challenge \nin your life thats the end of your life\"");

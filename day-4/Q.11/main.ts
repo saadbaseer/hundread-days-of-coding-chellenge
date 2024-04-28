@@ -8,3 +8,5 @@ for (let i=0;i<friends.length;i++){       // used for loop to access one by one
     console.log(friends[i]);              
     
 }
+
+

@@ -4,6 +4,7 @@
 //   Use "\t" (tab) and "\n" (new line) at least once. Print the 
 //   name once, so the whitespace around the name is displayed. 
 //   Then print the name after stripping the white spaces.
-var personName = "\t\tSaad \tbaseer khan \n  ";
-console.log(personName);
-console.log(personName.trim());
+
+let personName:string="\t\tSaad baseer khan \n  " 
+console.log(personName );// shows with whitespace
+console.log(personName.trim());//shows without whitespaces
