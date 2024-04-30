@@ -9,7 +9,7 @@ var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
     }
     return to.concat(ar || Array.prototype.slice.call(from));
 };
-var places = ["New Zealand", "Iceland", "Japan", "Switzerland", "Norway"];
+var places = ["Saudi Arabia", "Turkey", "England", "Switzerland", "France"];
 console.log("Original order:", places);
 console.log("Alphabetical order:", __spreadArray([], places, true).sort());
 console.log("Original order:", places);

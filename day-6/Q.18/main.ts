@@ -2,7 +2,7 @@
 //  Seeing the World: Think of at least five places you’d like to visit.
 
 
-let places: string[] = ["New Zealand", "Iceland", "Japan", "Switzerland", "Norway"];
+let places: string[] = ["Saudi Arabia", "Turkey", "England", "Switzerland", "France"];
 
 console.log("Original order:", places);
 
