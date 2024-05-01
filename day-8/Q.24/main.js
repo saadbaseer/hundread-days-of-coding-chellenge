@@ -19,4 +19,4 @@ console.log("Is 'apple' in fruits?");
 console.log(fruits.includes("apple")); // True
 // Test whether an item is not in a array
 console.log("Is 'mango' not in fruits?");
-console.log(!fruits.includes("mango")); // false
+console.log(!fruits.includes("mango")); // true
