@@ -13,6 +13,6 @@ var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
     return to.concat(ar || Array.prototype.slice.call(from));
 };
 var pricesSet1 = [1200, 1500, 1100];
-var pricesSet2 = [1000, 1300, 1600];
-var combinedPrices = __spreadArray(__spreadArray([], pricesSet1, true), pricesSet2, true).sort(function (a, b) { return a - b; });
+var pricesSet2 = [1000, 1300, 1500, 1600];
+var combinedPrices = __spreadArray(__spreadArray([], pricesSet1, true), pricesSet2, true).sort();
 console.log(combinedPrices);
