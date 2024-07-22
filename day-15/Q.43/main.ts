@@ -5,7 +5,7 @@
 let magicians: string[] = ["Alice", "David", "Chris"];
 
 function make_great(magicians: string[]): string[]{
-  let greatMagicians = [];
+  let greatMagicians:string[] = [];
   magicians.forEach((magician) => {
     greatMagicians.push(`${magician} the Great`);
 });
